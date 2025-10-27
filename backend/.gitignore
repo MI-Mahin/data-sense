@@ -1,0 +1,5 @@
+venv/
+.env
+demo.sql
+outputs/
+dummy.sql
