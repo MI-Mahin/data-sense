@@ -9,7 +9,7 @@
 
 ## Features
 
-- **Natural Language to SQL** - Convert plain English questions into SQL queries using OpenAI/Gemini
+- **Natural Language to SQL** - Convert plain English questions into SQL queries using OpenAI / Gemini
 - **Interactive Data Visualization** - Beautiful charts and graphs powered by Matplotlib
 - **Real-time Statistics** - Automatic calculation of averages, min/max, and statistical insights
 - **CSV Export** - Export query results to CSV files with one click
@@ -182,10 +182,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - OpenAI for providing the GPT API
@@ -195,9 +191,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-**MI-Mahin** - [@MI-Mahin](https://github.com/MI-Mahin)
-
-Project Link: [https://github.com/MI-Mahin/data-sense](https://github.com/MI-Mahin/data-sense)
+**Mahmudul Islam Mahin** - [@MI-Mahin](https://github.com/MI-Mahin)
 
 
 
