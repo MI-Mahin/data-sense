@@ -1,9 +1,9 @@
 # DataSense AI 
 
 ![DataSense AI](https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-16.0-black?style=for-the-badge&logo=next.js)
-![Flask](https://img.shields.io/badge/Flask-3.0-green?style=for-the-badge&logo=flask)
-![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Flask](https://img.shields.io/badge/Flask-green?style=for-the-badge&logo=flask)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 
 **Transform your data into insights with natural language queries** - A modern AI-powered data analytics platform that converts natural language into SQL queries and delivers instant, actionable insights.
 
